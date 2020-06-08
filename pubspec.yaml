@@ -44,6 +44,15 @@ flutter:
   uses-material-design: true
   assets:
     - assets/appimages/icon_user.png
+    - assets/appimages/Russian_Blue.jpg
+    - assets/appimages/bg_profile.jpg
+    - assets/appimages/profil.jpg
+    - assets/appimages/Sphynx.jpg
+    - assets/appimages/Kucing-Bulu-Pendek-Britania.jpg
+    - assets/appimages/Kucing-Persia.jpg
+    - assets/appimages/Kucing-Sabana.jpg
+    - assets/appimages/Kucing-Siam.jpg
+    - assets/appimages/Chartreux.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
